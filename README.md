@@ -1,8 +1,3 @@
-Since we have successfully debugged the PDF generation process and you now have a working foundation, let's document the entire process and provide the final `README.md` file, which is the last step required by the task specifications.
-
-This `README.md` will guide a user through the complete setup, execution, and verification, using the robust code implementation.
-
------
 
 ## Project: Image Packing on PDF
 
